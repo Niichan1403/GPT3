@@ -1,5 +1,6 @@
 .gpt3__header {
     display: flex;
+    padding-bottom: 0 !important;
 }
 
 .gpt3__header-content {
@@ -99,7 +100,7 @@
 }
 
 .gpt3__header-image {
-    flex: 1;
+    flex: 0.75;
     display: flex;
     justify-content: center;
     align-items: center;
